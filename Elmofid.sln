@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elmofid.Api", "Elmofid.Api\Elmofid.Api.csproj", "{59992812-136B-467F-B81A-5AE2FE5477DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elmofid.Application", "Elmofid.Application\Elmofid.Application.csproj", "{ABE4A9AA-8F3E-4381-B2BE-875AD13C79BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elmofid.Contracts", "Elmofid.Contracts\Elmofid.Contracts.csproj", "{22FB4A67-4682-4A30-8F58-FE95ABDABC12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elmofid.Domain", "Elmofid.Domain\Elmofid.Domain.csproj", "{160E955D-9624-42C3-B57F-B6459F070236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elmofid.Infrastructure", "Elmofid.Infrastructure\Elmofid.Infrastructure.csproj", "{D4109D35-82B8-4A38-8209-DF821AB58D59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59992812-136B-467F-B81A-5AE2FE5477DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59992812-136B-467F-B81A-5AE2FE5477DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59992812-136B-467F-B81A-5AE2FE5477DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59992812-136B-467F-B81A-5AE2FE5477DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABE4A9AA-8F3E-4381-B2BE-875AD13C79BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE4A9AA-8F3E-4381-B2BE-875AD13C79BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE4A9AA-8F3E-4381-B2BE-875AD13C79BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE4A9AA-8F3E-4381-B2BE-875AD13C79BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22FB4A67-4682-4A30-8F58-FE95ABDABC12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22FB4A67-4682-4A30-8F58-FE95ABDABC12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22FB4A67-4682-4A30-8F58-FE95ABDABC12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22FB4A67-4682-4A30-8F58-FE95ABDABC12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{160E955D-9624-42C3-B57F-B6459F070236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{160E955D-9624-42C3-B57F-B6459F070236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{160E955D-9624-42C3-B57F-B6459F070236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{160E955D-9624-42C3-B57F-B6459F070236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4109D35-82B8-4A38-8209-DF821AB58D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4109D35-82B8-4A38-8209-DF821AB58D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4109D35-82B8-4A38-8209-DF821AB58D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4109D35-82B8-4A38-8209-DF821AB58D59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
