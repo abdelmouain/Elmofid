@@ -1,4 +1,4 @@
-namespace Elmofid.Contracts.Authenticaton;
+namespace Elmofid.Contracts.Authentication;
 
 public record RegisterRequest(
     string FirstName,

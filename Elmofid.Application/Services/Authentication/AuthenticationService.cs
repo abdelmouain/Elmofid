@@ -2,7 +2,7 @@ using Elmofid.Application.Common.Interfaces.Authentication;
 using Elmofid.Application.Common.Interfaces.Persistence;
 using Elmofid.Domain.Entities.Authentication;
 
-namespace Elmofid.Application.Services.Authenticaton;
+namespace Elmofid.Application.Services.Authentication;
 
 public class AuthenticationService : IAuthenticationService
 {

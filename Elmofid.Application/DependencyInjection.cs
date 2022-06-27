@@ -1,4 +1,4 @@
-﻿using Elmofid.Application.Services.Authenticaton;
+﻿using Elmofid.Application.Services.Authentication;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace Elmofid.Application

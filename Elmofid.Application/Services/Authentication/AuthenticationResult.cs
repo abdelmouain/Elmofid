@@ -1,8 +1,8 @@
 using Elmofid.Domain.Entities.Authentication;
 
-namespace Elmofid.Application.Services.Authenticaton;
+namespace Elmofid.Application.Services.Authentication;
 
 public record AuthenticationResult(
-    User user,
+    User User,
     string Token
 );
