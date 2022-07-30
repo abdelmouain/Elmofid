@@ -8,7 +8,7 @@ namespace Elmofid.Api.Controllers;
 [Route("api/auth")]
 public class AuthenticationController : ControllerBase
 {
-    private IAuthenticationService _authenticationService;
+    private readonly IAuthenticationService _authenticationService;
 
     public AuthenticationController(IAuthenticationService authenticationService)
     {
